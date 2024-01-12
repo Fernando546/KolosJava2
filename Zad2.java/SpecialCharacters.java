@@ -1,5 +1,5 @@
 
-public class Main{
+public class SpecialCharacters{
     public static void main(String[] args) {
         String sentence = "To! #jest@ przy$$$kladowe# zdanie%";
         String cleanedSentence = removeSpecialCharacters(sentence);
